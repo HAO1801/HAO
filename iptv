@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
-
+#EXTINF:-1 tvg-id="cnn" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/afb1b8b813987442073c8bc91ee7e3e1/getlink/mytv/id/210/xemlai/${start}-${offset}", VTV1
+http://nossl.synguyen.net/api/token/afb1b8b813987442073c8bc91ee7e3e1/getlink/vtvgo/id/1
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 https://ctrl.laotv.la/live/CNN/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
