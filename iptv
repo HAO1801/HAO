@@ -26,9 +26,9 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN US
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1  tvg-id="http://str1.cvtv.xyz/VTV1HD?token=live và https://tthd.site/360/2/index.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.1.117:10254 và http://iptvquan.duckdns.org:9876/udp/225.1.2.249:30120 và https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w2127434941_b2289152.m3u8" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
 http://gg.gg/HaNoiIPTV-VTV1_HD
