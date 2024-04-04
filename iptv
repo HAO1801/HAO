@@ -4,6 +4,8 @@
 https://ctrl.laotv.la/live/CNN/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| K+" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://ctrl.laotv.la/live/DW/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| K+" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
