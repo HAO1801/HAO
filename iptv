@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
+#EXTINF:-1 tvg-id="cnn" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 https://ctrl.laotv.la/live/CNN/index.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
+#EXTINF:-1 tvg-id="dw" group-title="🍭| K+" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://ctrl.laotv.la/live/DW/index.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
+#EXTINF:-1 tvg-id="dw" group-title="🍭| K+" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="france-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
+#EXTINF:-1 tvg-id="france-24" group-title="🍭| K+" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="france-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
+#EXTINF:-1 tvg-id="france-24" group-title="🍭| K+" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-#EXTINF:-1 tvg-id="bbc-news" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
+#EXTINF:-1 tvg-id="bbc-news" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=bbcnews
@@ -28,23 +28,23 @@ https://ctrl.laotv.la/live/K+Sport2/index.m3u8
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/VTV1HD?token=live và https://tthd.site/360/2/index.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.1.117:10254 và http://iptvquan.duckdns.org:9876/udp/225.1.2.249:30120 và https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w2127434941_b2289152.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" group-title="KÊNH THIẾT YẾU" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20t%E1%BB%95ng%20h%E1%BB%A3p.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
+#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/VTV1HD?token=live và https://tthd.site/360/2/index.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.1.117:10254 và http://iptvquan.duckdns.org:9876/udp/225.1.2.249:30120 và https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w2127434941_b2289152.m3u8" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
 http://gg.gg/HaNoiIPTV-VTV1_HD
-#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/vtv2?token=live và http://iptvzin.asuscomm.com:9876/rtp/232.84.2.31:10594 và http://iptvquan.duckdns.org:9876/udp/225.1.3.5:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20VTV.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV2 HD
+#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/vtv2?token=live và http://iptvzin.asuscomm.com:9876/rtp/232.84.2.31:10594 và http://iptvquan.duckdns.org:9876/udp/225.1.3.5:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV2 HD
 http://gg.gg/HaNoiIPTV-VTV2_HD
-#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/VTV3HD?token=live và http://iptvzin.asuscomm.com:9876/rtp/232.84.1.118:10260 và http://iptvquan.duckdns.org:9876/udp/225.1.3.2:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV3 HD
+#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/VTV3HD?token=live và http://iptvzin.asuscomm.com:9876/rtp/232.84.1.118:10260 và http://iptvquan.duckdns.org:9876/udp/225.1.3.2:30120" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV3 HD
 http://gg.gg/HaNoiIPTV-VTV3_HD
-#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.32:10600 và http://iptvquan.duckdns.org:9876/udp/225.1.2.20:30120" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20th%E1%BB%A9%20hai.png",VTV4 HD
+#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.32:10600 và http://iptvquan.duckdns.org:9876/udp/225.1.2.20:30120" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20th%E1%BB%A9%20hai.png",VTV4 HD
 http://gg.gg/HaNoiIPTV-VTV4_HD
-#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/vtv5?token=live và http://iptvzin.asuscomm.com:9876/rtp/232.84.2.31:10594 và http://iptvquan.duckdns.org:9876/udp/225.1.3.4:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV5 HD
+#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/vtv5?token=live và http://iptvzin.asuscomm.com:9876/rtp/232.84.2.31:10594 và http://iptvquan.duckdns.org:9876/udp/225.1.3.4:30120" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV5 HD
 http://gg.gg/HaNoiIPTV-VTV5_HD
-#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.1.119:10266 và http://iptvquan.duckdns.org:9876/udp/225.1.3.3:30120 và https://tthd.site/360/98/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV%20C%E1%BA%A7n%20Th%C6%A1%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",VTV CẦN THƠ HD
+#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.1.119:10266 và http://iptvquan.duckdns.org:9876/udp/225.1.3.3:30120 và https://tthd.site/360/98/index.m3u8" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV%20C%E1%BA%A7n%20Th%C6%A1%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",VTV CẦN THƠ HD
 http://gg.gg/HaNoiIPTV-VTV_Can_Tho_HD
-#EXTINF:-1  tvg-id="http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8 và https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8 và https://ott4.nethubtv.vn/live/quochoi/chunklist_2.m3u8 và https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTV" group-title="KÊNH THIẾT YẾU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20h%E1%BB%99i%20Vi%E1%BB%87t%20Nam%20HD%20%E2%80%A2%20B%E1%BA%A3n%204B.png",TH QUỐC HỘI HD
+#EXTINF:-1  tvg-id="http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8 và https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8 và https://ott4.nethubtv.vn/live/quochoi/chunklist_2.m3u8 và https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20h%E1%BB%99i%20Vi%E1%BB%87t%20Nam%20HD%20%E2%80%A2%20B%E1%BA%A3n%204B.png",TH QUỐC HỘI HD
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Quoc_hoi_HD
-#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.202:10996 và http://iptvquan.duckdns.org:9876/udp/225.1.2.96:30120" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV7 HD
+#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.202:10996 và http://iptvquan.duckdns.org:9876/udp/225.1.2.96:30120" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV7 HD
 http://gg.gg/HaNoiIPTV-VTV7_HD
-#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.104:10612 và http://iptvquan.duckdns.org:9876/udp/225.1.2.166:30120" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV8 HD
+#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.104:10612 và http://iptvquan.duckdns.org:9876/udp/225.1.2.166:30120" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV8 HD
 http://gg.gg/HaNoiIPTV-VTV8_HD
-#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.35:10618 và http://iptvquan.duckdns.org:9876/udp/225.1.1.128:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV9 HD
+#EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.35:10618 và http://iptvquan.duckdns.org:9876/udp/225.1.1.128:30120" group-title="🍭| K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV9 HD
 http://gg.gg/HaNoiIPTV-VTV9_HD
