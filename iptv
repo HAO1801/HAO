@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-id="VTV1" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/nfkmvAY.png", VTV1 
-http://iptvquan.duckdns.org:9876/udp/225.1.2.249:30120
+https://tthd.site/360/2/index.m3u8
 #EXTINF:-1 tvg-id="VTV2" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/BVwi3K3.png", VTV2 
 http://str1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="VTV3" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/7rLCvgS.png", VTV3 
