@@ -24,8 +24,8 @@ https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="VTV3" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 https://edge2.laotv.la/live/VTV3/index.m3u8
-#EXTINF:0 tvg-id="BBC News" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
+#EXTINF:0 tvg-id="BBC News" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
+#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 
