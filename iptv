@@ -4,12 +4,12 @@ https://edge1.laotv.la/live/VTV1SD/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 https://ctrl.laotv.la/live/CNN/index.m3u8
 
-#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://ctrl.laotv.la/live/DW/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/hsByQfe.png", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="france-24" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="france-24" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
