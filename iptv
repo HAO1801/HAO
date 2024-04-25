@@ -3,7 +3,8 @@
 https://edge1.laotv.la/live/VTV1SD/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 https://ctrl.laotv.la/live/CNN/index.m3u8
-
+#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
+https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://ctrl.laotv.la/live/DW/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
@@ -17,8 +18,7 @@ https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=bbcnews
-#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
-https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+
 #EXTINF:-1 tvg-id=HBO" group-title="🍭| IPTV"  tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="VTV3" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
