@@ -17,7 +17,7 @@ https://news.codeautoplay.workers.dev/?codeby=nd&channel=bbcnews
 
 #EXTINF:-1 tvg-id=vtv1" group-title="🍭| IPTV"  tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://vtc301220.cdn.vnns.io/VTV1HD.stream/chunks.m3u8
-#EXTINF:0 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+#EXTINF:0 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e8.endpoint.cdn.sctvonline.vn/hls/bbcnews/index.m3u8?
