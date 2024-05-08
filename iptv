@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp",$ K+CINE HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log?key=AIzaSyCx80ru6-RXeTi3GvqkFsMVyMf-vpgIoVw
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e6.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/live_dzones/cnn.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
