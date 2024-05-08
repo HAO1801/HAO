@@ -95,8 +95,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?
 https://htvc271120.cdn.vnns.io/2f958f2cfba6d603f1e64126e5d2b15e1715760225/htv1.720p.nimble.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://htvc271120.cdn.vnns.io/1ed2708750b99e572a63e448a11838501715760319/htv2.cat.720p.tms/chunks.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTUxNTU5MjcsInVyaSI6IlwvaHR2Y1wvaHR2My43MjBwLm5pbWJsZS50bXMiLCJpcCI6IiJ9.IYUuB1aQofbnlMTcWP5L5g58Bo7PNqdNh2IWsR5l8BE-/htvc/htv3.720p.nimble.tms/chunks.m3u8
+
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://htvc271120.cdn.vnns.io/5bcdc1f79612c1aa70be9b21307e6fd31715760144/htv4.480p.nimble.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
