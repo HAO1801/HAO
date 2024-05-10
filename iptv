@@ -220,10 +220,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/zS1zTpv.png",THVL3
-https://live3.thvli.vn/XRns7GqNWxDNpz_lwd89bw/1715274928/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/tbZo2NR.png",THVL4
-https://live3.thvli.vn/J2em7-gj4wsF-J75ehaAeA/1715273919/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
 https://1011337676.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
