@@ -418,3 +418,20 @@ https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
 https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="htvccanhachd" group-title="💛| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+
