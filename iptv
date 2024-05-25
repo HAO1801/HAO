@@ -424,6 +424,6 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO
-http://ip168.homeip.net:8086/hbo.m3u8
 https://123.21.66.65:8081/sv2plusr/live/hda1/hbo_hls.smil/playlist.m3u8?token=Wzh4mTlsGXOdpt-NPUwRtA&e=1716623091
-
+#EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO
+http://123.21.66.65:8081/live/hbo/index.m3u8?token=sB9z7iIBY8kpbzdXYQXqTQ&e=1716623100
