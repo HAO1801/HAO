@@ -424,7 +424,9 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO
-http://123.21.66.65:8081/live/hbo/index.m3u8?token=&e=
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://123.21.66.65
+http://123.21.66.65:8081/live/hbo/index.m3u8?
 #EXTINF:-1 tvg-id="Cinemax" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
 http://123.21.66.65:8081/live/cinemax/index.m3u8?token=&e=
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
