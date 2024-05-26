@@ -424,9 +424,9 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO
-http://123.21.66.65:8081/live/hbo/index.m3u8?token=sB9z7iIBY8kpbzdXYQXqTQ&e=1716623100
+http://123.21.66.65:8081/live/hbo/index.m3u8?token=&e=
 #EXTINF:-1 tvg-id="Cinemax" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
-http://123.21.66.65:8081/live/cinemax/index.m3u8?token=Quq3fgJtMzhQdF6ON0XNHw&e=1716623892
+http://123.21.66.65:8081/live/cinemax/index.m3u8?token=&e=
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
@@ -443,5 +443,4 @@ https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
-https://live-bd2.tv360.vn/samJyFKI-MP1QzRsLDePlA/1716631953/manifest/IntheBox_HD/playlist_1080p2M.m3u8?uid=2245237&manifestfilter=video_bitrate:1-3600000
+
