@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-#EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
-https://htvc271120.cdn.vnns.io/7e14d7e0c6d5a6090aeb83bcc2f587361717662506/htvthethao.adm.720p.tms/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="france24eng" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
