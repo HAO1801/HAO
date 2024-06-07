@@ -95,11 +95,6 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?
 http://171.238.180.25:18080/304.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-https://htvc271120.cdn.vnns.io/4c2b850ba14dfb6be4b8315d646a45d61717471366/htv7.cat.720p.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-https://htvc271120.cdn.vnns.io/10ae2c6b1329262296572b1eff449e941717471387/htv9.cat.720p.tms/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 https://player.livepush.io/emv0_VLEjfc6f
 
 #EXTINF:-1 group-title="🇻🇳| SCTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
