@@ -197,10 +197,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3
-https://vips-livecdn.fptplay.net/MzMzMzMzNTF8dmluaGxvbmczX3ZobHMuc21pbHx2bnB0fDE3MTc3NjkyNzF8MTQuMjU0LjExLjI5fGUzNDQxMjdlNGZmNDdlNjAwMmQxNGJhNTc5ODMwOWZh/epzhd2/vinhlong3_vhls.smil/playlist.m3u8
+https://live4.thvli.vn/V7qs1aXQ5ZpzLu5uaDXfIA/1717878490/thvli/thvl1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4
-https://vips-livecdn.fptplay.net/MzMzMzMzNTF8dmluaGxvbmc0aGRfdmhscy5zbWlsfHZucHR8MTcxNzc2OTI0NHwxNC4yNTQuMTEuMjl8OTE5YjIxOTkzMGYxZGNlYWNjYmQ5NTY3MDNiMmZhZGY/epzhd2/vinhlong4hd_vhls.smil/playlist.m3u8
-
+https://live4.thvli.vn/dfTTqofnB0ouM8wa4MN1GA/1717878503/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
