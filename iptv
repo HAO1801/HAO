@@ -196,10 +196,6 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3
-https://live4.thvli.vn/mJYDLu5TnrhF4vWQS5UweQ/1717879200/thvli/thvl3-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4
-https://live4.thvli.vn/_4gwVvPqZ1v_c37uFK5sxw/1717879136/thvli/thvl4-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
