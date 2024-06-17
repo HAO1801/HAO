@@ -546,3 +546,8 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 http://m3u.at/hbo-vn?-50pfp-playlist.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8", Cinemax🇻🇳
+#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTVLCOPT:http-user-agent=khichtv/17-03-24
+http://m3u.at/Live-cinemax?-50ptp-playlist.m3u8
