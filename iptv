@@ -549,5 +549,5 @@ http://s4.nihontv.net:21585/hbo/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO (Dự Phòng)
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
