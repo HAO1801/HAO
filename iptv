@@ -542,7 +542,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO (Dự Phòng)
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO 
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://s4.nihontv.net:21585/hbo/index.m3u8
 
