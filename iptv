@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
 
 #EXTINF:-1 tvg-id="france24eng" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
