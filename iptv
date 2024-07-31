@@ -239,10 +239,10 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-id="caobang" tvg-logo="https://i.imgur.com/qbI66HM.png" group-title="🇻🇳| Địa phương",Cao Bằng
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/128.png", Đà Nẵng TV 1 HD
+#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/128.png", Đà Nẵng TV 1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/129.png", Đà Nẵng TV 2 HD
+#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/129.png", Đà Nẵng TV 2 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="🇻🇳| Địa phương",Đắk Lắk
