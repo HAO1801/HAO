@@ -2,37 +2,26 @@
 #-------------------------QT---------------------------#
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
-
 #EXTINF:-1 tvg-id="france24eng" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 #EXTINF:-1 tvg-id="france-24" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="bbc-news" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC News" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=bbcnews
-
-#EXTINF:-1 tvg-id="BBC News" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News Asia
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC News" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-
 #EXTINF:-1 tvg-id="france-24" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC34/index.m3u8
-
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442172&extension=ts&play_token=86yjdBGEDy
 #-------------------------VTV---------------------------#
