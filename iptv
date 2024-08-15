@@ -18,6 +18,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442172&extension=ts&play_token=86yjdBGEDy
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+http://p2.cvtv.xyz:81/cnn?token=live
 #-------------------------VTV---------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -413,7 +417,12 @@ https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
-
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/235/index.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360 (Dự Phòng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/239/index.m3u8
 #-------------------------VTVcab---------------------------#
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🇻🇳| VTVcab1" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab2/index.m3u8
