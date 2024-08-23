@@ -1,27 +1,31 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
 #-------------------------QT---------------------------#
-#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
+#EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="france-24" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
+#EXTINF:-1 tvg-id="france-24" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="bbc-news" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
+#EXTINF:-1 tvg-id="bbc-news" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC News" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
+#EXTINF:-1 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=bbcnews
-#EXTINF:-1 tvg-id="BBC News" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News JP
+#EXTINF:-1 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 tvg-id="cnn" group-title="🍭| IPTV" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International JP
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🍭| IPTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442172&extension=ts&play_token=86yjdBGEDy
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
 http://p2.cvtv.xyz:81/cnn?token=live
+#EXTINF:0 tvg-id="vtv1hd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png",France 24 SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8?
 #-------------------------VTV---------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
