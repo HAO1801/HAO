@@ -294,7 +294,7 @@ http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/1fNSjhT.png" group-title="🇻🇳| Địa phương",Quảng Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="quangngai" tvg-logo="https://i.imgur.com/FTyvVYO.png" group-title="🇻🇳| Địa phương",Quảng Ngãi
-https://stream.thingnet.vn/live/smil:PTQ.smil/media_w757185977_b1384000_15189.ts
+https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/KVia0uU.png" group-title="🇻🇳| Địa phương",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/ci6kzgL.png" group-title="🇻🇳| Địa phương",Quảng Ninh 3
