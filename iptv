@@ -406,7 +406,7 @@ http://14.187.170.42:3008/rtp/232.84.3.242:11374
 https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD (Dự Phòng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:vmttv/mac=2F-1E-07-AD-E9-59/vtvcab16/index.m3u8
+https://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:vmttv/mac=2F-1E-07-AD-E9-59/vtvcab16/index.m3u8
 #-------------------------VTC---------------------------#
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc1-hd/${start}/${offset}", VTC1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
