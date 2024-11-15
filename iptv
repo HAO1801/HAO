@@ -565,9 +565,7 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png", HanoiTV2 HD 1080p
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w209459414_b3128000_slen.m3u8
-#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/178.png", TTV HD | TH Thanh Hóa
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://antm.dynu.net:14285/rtp/232.84.3.198:11110
+
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/178.png", TTV HD | TH Thanh Hóa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://epg.pw/stream/3511cd6ce78dfe8c21b5dfde4b931265066d0a631f629d79af83e7936e6bde9f.m3u8
@@ -601,7 +599,7 @@ https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/161.png", NBTV | Truyền Hình Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/160.png", NTV | Truyền Hình Nghệ An
-https://cdn.mediatech.vn/natvlive/tv1live.m3u8
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/174.png", TTV 11 | Truyền Hình Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://118.69.83.22:1935/ttv11/tntv/playlist.m3u8
@@ -697,7 +695,7 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="hagiang" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/139.png", HGTV | Truyền Hình Hà Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://ott4.nethubtv.vn/live/hagiangtv/chunklist_2.m3u8
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/110.png", BTV HD | Truyền Hình Bắc Ninh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
