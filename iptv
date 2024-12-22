@@ -778,25 +778,3 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.201/test/123/playlist.mp
 #EXTINF:0 tvg-id="arirang" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.227/test/123/playlist.mpegts
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
-#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/556914677?profile=pass
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
-
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế 1" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.0.0 Mobile/15E148 Safari/604.1
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tvphori/hbo/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/235/index.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/239/index.m3u8
