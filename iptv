@@ -349,15 +349,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.172.223.172:1024/rtp/232.84.3.242:11374
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD (Dự Phòng)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.172.223.172:1024/rtp/232.84.1.210:9234
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.172.223.172:1024/rtp/232.84.2.193:10942
+
 
 
 #-------------------------VTVcab---------------------------#
@@ -466,9 +458,7 @@ https://ott1.sgchill.io.vn/backend/vmttv/source/vstv521/235/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ott1.sgchill.io.vn/backend/vmttv/source/vstv521/239/index.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="📦| In The Box" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO (Dự Phòng)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://125hvt.ddns.net:21585/hbo/index.m3u8
+
 
 #-------------------------Dia phuong---------------------------#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
