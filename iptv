@@ -762,5 +762,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-
+#*--_--*K+*--_--*#
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vstv/kplus_cine.png",K+CINE
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="K+" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vstv/kplus_action.png",K+ACTION
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
 
