@@ -743,7 +743,6 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1918805893_b1384000.m3u8
 
 #-------------------------QUOC TE---------------------------#
 
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
