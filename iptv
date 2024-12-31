@@ -302,6 +302,12 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
 https://live2onsport.vtvcab.vn/onplus/HAY_TV/manifest.mpd
 
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (ON PLUS)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
+https://live2onsport.vtvcab.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD (ON PLUS)
