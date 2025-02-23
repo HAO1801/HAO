@@ -672,6 +672,12 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bxwJwDXqs2Mj1g0UVNs9IA","kid":"nSn4fv3sPJ+rNo9ySmKtDg"}],"type":"temporary"}
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"12vq1C+Ydcg736NVlggbwA", "kid":"V6AvqpA8OIemkd/radGvBg" } ], "type":"temporary" }
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
 #-*--Địa phương-*--#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
@@ -975,3 +981,73 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.74/hao123/123/playlist.m
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.46/hao123/123/playlist.mpegts
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc tế " tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) bentre
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.211/hao123/123/playlist.mpegts
+
+
+#EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/267.png?ver=undefined", MyTV 801
+http://113.180.42.7:12343/rtp/232.84.2.175:10858
+#EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/349.png?ver=undefined", MyTV 802 
+http://113.180.42.7:12343/rtp/232.84.2.176:10864
+#EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/447.png?ver=undefined", MyTV 803 
+http://113.180.42.7:12343/rtp/232.84.2.195:10954
+#EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 
+http://113.180.42.7:12343/rtp/232.84.2.196:10960
+#EXTINF:-1 tvg-id="on1" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON1.jpg", ON 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT1/manifest.mpd
+#EXTINF:-1 tvg-id="on2" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON2.jpg", ON 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I1MoZkOOTWC4ozvhPjsJCA","kid":"/TIp5+zAQY+FaxjEJC5b+g"}],"type":"temporary"}l
+http://live2onsport.vtvcab.vn/onplus/ONSPORT2/manifest.mpd
+#EXTINF:-1 tvg-id="on3" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON3.jpg", ON 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BGTc94QySj6C4m9tEjskZA","kid":"/rxpNqMHQwuPNtx+mlW3kQ"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT3/manifest.mpd
+#EXTINF:-1 tvg-id="on4" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON4.jpg", ON 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cczWOwt5TUSfJx0S3jbkmA","kid":"AGmI58pET8a23zbBcbySYw"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT4/manifest.mpd
+#EXTINF:-1 tvg-id="on5" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON5.jpg", ON 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"S5s8Z+rRRaW8IV0bBurqKQ","kid":"gpw3XTPjTXKTIfgunTg9ZA"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT5/manifest.mpd
+#EXTINF:-1 tvg-id="on6" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON6.jpg", ON 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2T/dgituSQ+yNn6TJ2QTGA","kid":"9pmXvGDoQpqPcbkzEpUqzw"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT6/manifest.mpd
+#EXTINF:-1 tvg-id="on7" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON7.jpg", ON 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"N8k+wWymSqyz6Fa5GZIMKA","kid":"qxLFpa8nR9KFqTVHYFgVlQ"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT7/manifest.mpd
+#EXTINF:-1 tvg-id="on8" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON8.jpg", ON 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"h/sxnyz9S7+VL+BPyCSL5A","kid":"lMiPg7ALTjS/nKUUAnuqBQ"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT8/manifest.mpd
+#EXTINF:-1 tvg-id="on9" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON9.jpg", ON 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pCCCn7VXRSGfHWMx4FSt5A","kid":"fExTzudfT7WcHoLtobhQjg"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT9/manifest.mpd
+#EXTINF:-1 tvg-id="on10" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON10.jpg", ON 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LN3gh6RMQtuNg2NHe/c9yA","kid":"OJPGonV6Txi2MaquBN5EnA"}],"type":"temporary"}
+http://live2onsport.vtvcab.vn/onplus/ONSPORT10/manifest.mpd
