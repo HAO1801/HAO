@@ -12,12 +12,13 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8?
-
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English CVTV
+http://p1.cvtv.xyz:81/dw?token=live
 #EXTINF:-1 group-title="Quốc tế" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News CVTV
 http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 group-title="Quốc tế" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN CVTV
 http://p1.cvtv.xyz:81/cnn?token=live
-#EXTINF:-1 group-title="Quốc tế" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
+#EXTINF:-1 group-title="Quốc tế" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English CVTV
 http://p1.cvtv.xyz:81/f24?token=live
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News MO
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.m3u8
@@ -580,7 +581,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key= { "keys":[ { "kty":"oct", "k":"Gs9Y/41M2HwtPBLSIkjvsQ", "kid":"cUzI7QWgOruaxhvUu9HYoA" } ], "type":"temporary" }
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC World News MYTV
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC MYTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= { "keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary" }
