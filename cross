@@ -918,4 +918,12 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.46/hao123/123/playlist.m
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc tế " tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) bentre
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.211/hao123/123/playlist.mpegts
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
+https://live2onsport.vtvcab.vn/onplus/K_CINE_7777/sc-gaFEQQ/m20_index.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
+https://live2onsport.vtvcab.vn/onplus/K_LIFE_7777/sc-gaFEQQ/m20_index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
+http://113.23.107.99:9981/stream/channelid/762700357?profile=pass
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
+http://113.23.107.99:9981/stream/channelid/1629121384?profile=pass
 
