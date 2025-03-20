@@ -257,11 +257,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?
 
 
 #EXTINF:-1 tvg-id="onsports" group-title="🇻🇳| VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab3.png",ON Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
-https://truyenhinh.click/vtvcab6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/HAO1801/HAO/refs/heads/main/3
 https://cdn.sgchill.io.vn/live/vtvcab6/index.m3u8
 https://live2onsport.vtvcab.vn/onplus/THETHAO_HD/sc-gaFEQQ/m20_index.m3u8
 http://live2onsport.vtvcab.vn/onplus/THETHAO_HD/manifest.mpd
