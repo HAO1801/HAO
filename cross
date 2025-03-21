@@ -259,8 +259,15 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?
 #EXTINF:-1 tvg-id="onsports" group-title="🇻🇳| VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab3.png",ON Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/HAO1801/HAO/refs/heads/main/3
-
-
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://truyenhinh.click/vtvcab6
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://truyenhinh.click/vtvcab16
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://truyenhinh.click/vtvcab18
 
 #-------------------------INTHEBOX---------------------------#
 
@@ -896,3 +903,13 @@ http://113.23.107.99:9981/stream/channelid/762700357?profile=pass
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
 http://113.23.107.99:9981/stream/channelid/1629121384?profile=pass
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+1" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+SPORT1 HD
+https://xemcaigi.thatvidieu.site/k1/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+1" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+SPORT2 HD
+https://xemcaigi.thatvidieu.site/k2/mpegts
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+1" tvg-logo="https://i.imgur.com/As4bwUs.png", K+CINE HD
+https://truyenhinh.click/kcinehd
+#EXTINF:-1 tvg-id="kaction" group-title="K+1" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ACTION HD
+https://truyenhinh.click/kactionhd
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+1" tvg-logo="https://i.imgur.com/erWqYxh.png", K+KIDS HD
+https://truyenhinh.click/kkidshd
