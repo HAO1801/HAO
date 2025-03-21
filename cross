@@ -907,9 +907,6 @@ http://113.23.107.99:9981/stream/channelid/1629121384?profile=pass
 https://xemcaigi.thatvidieu.site/k1/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+1" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+SPORT2 HD
 https://xemcaigi.thatvidieu.site/k2/mpegts
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+1" tvg-logo="https://i.imgur.com/As4bwUs.png", K+CINE HD
-https://truyenhinh.click/kcinehd
-#EXTINF:-1 tvg-id="kaction" group-title="K+1" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ACTION HD
-https://truyenhinh.click/kactionhd
+
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+1" tvg-logo="https://i.imgur.com/erWqYxh.png", K+KIDS HD
 https://truyenhinh.click/kkidshd
