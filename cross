@@ -24,7 +24,7 @@ http://p1.cvtv.xyz:81/bbcn?token=live
 http://p1.cvtv.xyz:81/cnn?token=live
 #EXTINF:-1 group-title="Quốc tế" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English CVTV
 http://p1.cvtv.xyz:81/f24?token=live
-#EXTINF:-1 tvg-id="france24" group-title="Quốc tế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/france24/KenhCoBan",France 24 TV
+
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News MO
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN MO
