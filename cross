@@ -11,7 +11,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png",France 24 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8?
+https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/0TdXdSxb2qh_MewAca6hEA/1743958800/anonymous/live/hls/france24_eng/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English CVTV
 http://p1.cvtv.xyz:81/dw?token=live
 #EXTINF:-1 group-title="Quốc tế" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News CVTV
