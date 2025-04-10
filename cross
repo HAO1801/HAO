@@ -281,6 +281,7 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e8.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
 
 
