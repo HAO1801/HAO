@@ -288,8 +288,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie/index.m3u8?
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-/Lt01G-GRJvcaJEtV02SVtrjnsqs/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/P6USj0t43RmVLRPoUqyU7w/1744736400/anonymous/live/hls/thdt2/index.m3u8
-
+https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/VFm0pqXcEptXBeypZ2s4Sw/1744822800/A8MEUUK/live/hls/france24_eng/index.m3u8
 #-------------------------Dia phuong---------------------------#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
