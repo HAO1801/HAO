@@ -644,66 +644,6 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
 
-
-#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.198/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.225/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.134/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.24/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.52/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.74/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.91/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.138/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.231/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.202/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.242/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.197/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.223/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.238/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.136/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.46/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.227/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.211/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.112/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.233/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.196/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.47/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.215/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.236/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.200/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.139/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.201/hao123/123/playlist.mpegts
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế " tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.227/hao123/123/playlist.mpegts
-
 #EXTINF:-1 id-xtream="87236" tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
 http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/aTF0L2NlL3B1ZG1JTWMzZjZzR0UvZz09/hao123/123/playlist.mpegts
 #EXTINF:-1 id-xtream="98830" tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV2.jpg", SCTV2 HD
@@ -763,54 +703,40 @@ http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/OFBOTG1wd
 #EXTINF:-1 id-xtream="53973" tvg-id="woman" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/TDE4YlVUV0JUcS8vSWxLUHBFcHJ1UT09/hao123/123/playlist.mpegts
 
+#EXTINF:-1 id-xtream="36997" tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" ,ON Vie Giải trí
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/aDdCOUxXb0FVSmM3Y3VlSmNOa1F4QT09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="12864" tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/198/${start}/${end}", ON Phim Việt
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/QkFPUGdWYWV5RldEVDRhR2dzWnpqQT09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="50929" tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/435/${start}/${end}", On Movies
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/R2RDSTh2ZjBhT3pOVFR1SkZwWjlNdz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="11211" tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/202/${start}/${end}", ON E- Channel
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cUpudDNpc250U25kMTEvLzZGa2Q5dz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="22152" tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg", On O2TV
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/UmNIUkFMTzg5UEo1R1RCMW1ONEdTdz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="84252" tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/205/${start}/${end}", On BiBi
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cmh6Mmc2b0lyd2JnYkJyRVNZRUcyZz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="83861" tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg", ON Info TV
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/Z1Y0Z1RRMnZiditQb3VabDU4TGZPdz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="63553" tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/204/${start}/${end}", ON Cine
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/Y2pxOExUbGFmV0lja05NOWR0NGw2Zz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="36266" tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/206/${start}/${end}", ON Style TV
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/SVBlaG44Y0gxQitwbndHRW5abFQ2Zz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="12933" tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png  catchup="append" catchup-days="2" catchup-source="/catchup/439/${start}/${end}", On Music
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/WllqK1lNekVBQzRkVjNvcVNVdDFmZz09/hao123/123/playlist.mpegts
+#EXTINF:0 id-xtream="19216" tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/eVc1NEl0bUNod1p4WDc4Z1FtMGdHdz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="35271" tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" , ON Vie Dramas
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/Ty9SQmdMdzExZHBSdldlRWFhcERRZz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="96150" tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp" catchup="append" catchup-days="2" catchup-source="/catchup/241/${start}/${end}", ON V Family
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cDhUT3Z2ZXFxZS82QWc4bWVxMDFpZz09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="32686" tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp", On Kids
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/OHlZVmYrOUZuZUZYVDNmSTdqc0I1UT09/hao123/123/playlist.mpegts
+#EXTINF:-1 id-xtream="57739" tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", On Life
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/SW1vMTNxRXliTWNNblMxUTAvWjltQT09/hao123/123/playlist.mpegts
 
 
 
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" ,ON Vie Giải trí
-http://bentre5.hoangai.vn:8086/stream/vt/180/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg", ON Phim Việt
-http://bentre5.hoangai.vn:8086/stream/vt/175/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg", On Movies
-http://bentre5.hoangai.vn:8086/stream/vt/181/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg", ON E- Channel
-http://bentre5.hoangai.vn:8086/stream/vt/182/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg", On O2TV
-http://bentre5.hoangai.vn:8086/stream/vt/136/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg", On BiBi
-http://bentre5.hoangai.vn:8086/stream/vt/178/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg", ON Info TV
-http://bentre5.hoangai.vn:8086/stream/vt/189/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg", ON Cine
-http://bentre5.hoangai.vn:8086/stream/vt/176/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg", ON Style TV
-http://bentre5.hoangai.vn:8086/stream/vt/184/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png, On Music
-http://bentre5.hoangai.vn:8086/stream/vt/185/hao123/123/playlist.mpegts
-
-#EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
-http://bentre5.hoangai.vn:8086/stream/vt/186/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" , ON Vie Dramas
-http://bentre5.hoangai.vn:8086/stream/vt/177/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-http://bentre5.hoangai.vn:8086/stream/vt/187/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp", On Kids
-http://bentre5.hoangai.vn:8086/stream/vt/179/hao123/123/playlist.mpegts
-
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", On Life
-http://bentre5.hoangai.vn:8086/stream/vt/188/hao123/123/playlist.mpegts
 
 
 #EXTINF:0 id-xtream="12544" tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
