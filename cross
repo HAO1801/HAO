@@ -21,11 +21,6 @@ http://p1.cvtv.xyz:81/f24?token=live
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN MO
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/tracks-v1a1/mono.m3u8
-#-------------------------VTV---------------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-http://p1.cvtv.xyz/vtv1?token=live
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 DP
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
 #-------------------------HTV&HTVC---------------------------#
 
@@ -47,7 +42,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 
 #-------------------------INTHEBOX---------------------------#
 
-#EXTINF:-1 tvg-id="hbohd" group-title="📦| In The Box" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="In The Box" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 
@@ -578,6 +573,9 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV" ,VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV " tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 CVTV
+http://p1.cvtv.xyz/vtv1?token=live
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV" ,VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
