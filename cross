@@ -618,3 +618,11 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
 
+#EXTINF:0 tvg-id="cnn" group-title="Quốc tế " tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN bentre
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.242/hao123/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc tế " tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News bentre
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.74/hao123/123/playlist.mpegts
+#EXTINF:0 tvg-id="dw" group-title="Quốc tế " tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) bentre
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.46/hao123/123/playlist.mpegts
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc tế " tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) bentre
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.211/hao123/123/playlist.mpegts
