@@ -8,13 +8,13 @@ https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-id="cnn" group-title="" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN MYTV
+#EXTINF:-1 tvg-id="cnn" group-title="" tvg-logo="https://i.imgur.com/05S3yYZ.png", CNN 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= { "keys":[ { "kty":"oct", "k":"Gs9Y/41M2HwtPBLSIkjvsQ", "kid":"cUzI7QWgOruaxhvUu9HYoA" } ], "type":"temporary" }
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC MYTV
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= { "keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary" }
@@ -26,7 +26,6 @@ https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 https://live.fptplay53.net/fnxhd2/nhkworld_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="" tvg-logo="https://i.ibb.co/nbzwz4w/arirang.jpg",Arirang
-https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
+
 
 
