@@ -27,5 +27,6 @@ https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 https://live.fptplay53.net/fnxhd2/nhkworld_hls.smil/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png",VTV1 HD (On Plus)
+#https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/index.m3u8
 
